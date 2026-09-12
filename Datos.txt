@@ -2,3 +2,5 @@ Fernando Emir Walle Hernández
 
 Este archivo se usara para la practica de sincronización de git y github
 Este archivo fue modificado desde GitHub.
+
+Este archivo fue modificado desde el repositorio local.
